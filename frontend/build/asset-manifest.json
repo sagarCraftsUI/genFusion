@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8364dec.css",
+    "main.js": "/static/js/main.ed6f8bc8.js",
+    "static/media/product-development-services.jpeg": "/static/media/product-development-services.82d63806165ad9d397fd.jpeg",
+    "static/media/our-story.jpg": "/static/media/our-story.e2ff59e9cac813ff3504.jpg",
+    "static/media/mobile-app-development-service.jpeg": "/static/media/mobile-app-development-service.9ba469e2e7726bcc693f.jpeg",
+    "static/media/seo-digital-marketing-service.jpeg": "/static/media/seo-digital-marketing-service.839514d6d741fb0b3072.jpeg",
+    "static/media/web-development-services.jpeg": "/static/media/web-development-services.e128b5b2e49f1d6e987a.jpeg",
+    "static/media/ui-ux-design-service.jpeg": "/static/media/ui-ux-design-service.c6bc55a7d897096e9046.jpeg",
+    "static/media/it-consulting-service.jpeg": "/static/media/it-consulting-service.acfdc6c14b4a5fb11bfd.jpeg",
+    "static/media/about-us-banner.jpeg": "/static/media/about-us-banner.f92e6bc5203068d33ed3.jpeg",
+    "static/media/home-page-banner.jpeg": "/static/media/home-page-banner.0ccd75ddf2ca9093431d.jpeg",
+    "index.html": "/index.html",
+    "main.e8364dec.css.map": "/static/css/main.e8364dec.css.map",
+    "main.ed6f8bc8.js.map": "/static/js/main.ed6f8bc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8364dec.css",
+    "static/js/main.ed6f8bc8.js"
+  ]
+}
